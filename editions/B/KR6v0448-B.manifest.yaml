@@ -1,0 +1,322 @@
+canonical_identifier: bkk:krp/KR6v0448/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0448/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三國佛法傳通緣起
+  identifiers:
+    krp: KR6v0448
+    cbeta: B32n0186
+    cbeta_old_id: B32n0186
+    authorityid: CA0006272
+    json_key: B0186
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0186.xml
+    old_id: B32n0186
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0448_000-B.yaml, hash: 'sha256:5ab94f3a23b6be854c62a3f4dfa08e44adaf891998fc3421f4d04e61a8f195cc'}
+  - {seq: 1, filename: KR6v0448_001-B.yaml, hash: 'sha256:6103a9ff71d37df9a0734c0b2cf8c492f3b102b40438245c5b14a81774babc3d'}
+  - {seq: 2, filename: KR6v0448_002-B.yaml, hash: 'sha256:35e10522d0076106a204ed760b95412b3e44ecd53ed4be2d5b9646b998a4f651'}
+  - {seq: 3, filename: KR6v0448_003-B.yaml, hash: 'sha256:dc00548d2d742326905c4181ff7b6d5b0f945d2c7b0d0aeb4b325586070f5505'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0448_000-B.markers.yaml, hash: 'sha256:18962e6093efa89a0b1484f114642dc25d0234db502b478f77e281829886078d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0448_001-B.markers.yaml, hash: 'sha256:00ac33f3fb49bd05a7c5f0118bbf7ca1eef0b5738e15da4e477feab4e02021b4'}
+  - {seq: 2, role: markers, filename: assets/KR6v0448_002-B.markers.yaml, hash: 'sha256:8c550cca9c958af9f37e398489c9b2b51f7df266abaa32417efde6b1978f8416'}
+  - {seq: 3, role: markers, filename: assets/KR6v0448_003-B.markers.yaml, hash: 'sha256:e99b883f92fd486aa7d976081ddb1b234b17d54d8a860740f80f1c78a81e94ff'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 8374
+  label: 三國佛法傳通緣起卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-2
+    span:
+    - body
+    - 392
+    - 392
+  label: 天竺佛法傳通
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-3
+    span:
+    - body
+    - 1339
+    - 1339
+  label: 震旦佛法傳通
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-4
+    span:
+    - body
+    - 1492
+    - 1492
+  label: 毗曇宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-5
+    span:
+    - body
+    - 2464
+    - 2464
+  label: 成實宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-6
+    span:
+    - body
+    - 3359
+    - 3359
+  label: 戒律宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-7
+    span:
+    - body
+    - 4156
+    - 4156
+  label: 三論宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-8
+    span:
+    - body
+    - 4888
+    - 4888
+  label: 涅槃宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-9
+    span:
+    - body
+    - 5186
+    - 5186
+  label: 地論宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-10
+    span:
+    - body
+    - 5679
+    - 5679
+  label: 淨土宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-11
+    span:
+    - body
+    - 6100
+    - 6100
+  label: 禪宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-12
+    span:
+    - body
+    - 6464
+    - 6464
+  label: 攝論宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-13
+    span:
+    - body
+    - 6820
+    - 6820
+  label: 天台宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-14
+    span:
+    - body
+    - 7034
+    - 7034
+  label: 華嚴宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-15
+    span:
+    - body
+    - 7410
+    - 7410
+  label: 法相宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0448_B_001-mulu-16
+    span:
+    - body
+    - 7557
+    - 7557
+  label: 真言宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0448_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 7967
+  label: 三國佛法傳通緣起卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0448_B_002-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 大日本國諸宗傳通
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0448_B_002-mulu-2
+    span:
+    - body
+    - 479
+    - 479
+  label: 三論宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0448_B_002-mulu-3
+    span:
+    - body
+    - 2225
+    - 2225
+  label: 法相宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0448_B_002-mulu-4
+    span:
+    - body
+    - 3572
+    - 3572
+  label: 華嚴宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0448_B_002-mulu-5
+    span:
+    - body
+    - 6801
+    - 6801
+  label: 俱舍宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0448_B_002-mulu-6
+    span:
+    - body
+    - 7469
+    - 7469
+  label: 成實宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0448_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 7183
+  label: 三國佛法傳通緣起卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0448_B_003-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 律宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0448_B_003-mulu-2
+    span:
+    - body
+    - 4003
+    - 4003
+  label: 天台宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0448_B_003-mulu-3
+    span:
+    - body
+    - 5686
+    - 5686
+  label: 真言宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0448_B_003-mulu-4
+    span:
+    - body
+    - 6805
+    - 6805
+  label: 跋
+  type: mulu
+  level: 1
+hash: sha256:553da5fbb00509878efcaaf0ec24f4232f7e3a368b7c9e14483ba198e5864d2d
