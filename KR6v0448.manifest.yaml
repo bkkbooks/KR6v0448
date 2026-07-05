@@ -19,13 +19,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0448_000.yaml, hash: 'sha256:5ab94f3a23b6be854c62a3f4dfa08e44adaf891998fc3421f4d04e61a8f195cc'}
-  - {seq: 1, filename: KR6v0448_001.yaml, hash: 'sha256:b64c1b9b6f0c6ea925699c2aab99dc2632ca8fe4f358cd5dfad9c101b4ef11dd'}
-  - {seq: 2, filename: KR6v0448_002.yaml, hash: 'sha256:7570eb032bb4b6abe999303445d859e2bb6bf0733b8aff6fbd19dcd93dbf4ff8'}
-  - {seq: 3, filename: KR6v0448_003.yaml, hash: 'sha256:6aaeb389d2b790f886cb50fa5fd83151a53c7ec911220a5bf4fae28f4ce7b76c'}
+  - {seq: 1, filename: KR6v0448_001.yaml, hash: 'sha256:6103a9ff71d37df9a0734c0b2cf8c492f3b102b40438245c5b14a81774babc3d'}
+  - {seq: 2, filename: KR6v0448_002.yaml, hash: 'sha256:35e10522d0076106a204ed760b95412b3e44ecd53ed4be2d5b9646b998a4f651'}
+  - {seq: 3, filename: KR6v0448_003.yaml, hash: 'sha256:dc00548d2d742326905c4181ff7b6d5b0f945d2c7b0d0aeb4b325586070f5505'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0448_001.markers.yaml, hash: 'sha256:3eb37a36848fff3d789185c410045360c355ce7a7a443c705244516271e9bd25'}
-  - {seq: 2, role: markers, filename: assets/KR6v0448_002.markers.yaml, hash: 'sha256:9f7c3ed43ea42c1200bc2560c55de0aa8df39f3eeb2274fbd6b881cada0a3a85'}
-  - {seq: 3, role: markers, filename: assets/KR6v0448_003.markers.yaml, hash: 'sha256:c3bdf9c86155d73bb349b8314a7209c2357d4de93008ff7cff2b367a03554117'}
+  - {seq: 0, role: markers, filename: assets/KR6v0448_000.markers.yaml, hash: 'sha256:ed09b92c9fc8df140607ef42f20b3ee499c0eb318ffed88fa4df571b80bdc8ac'}
+  - {seq: 1, role: markers, filename: assets/KR6v0448_001.markers.yaml, hash: 'sha256:b152f247d49a4350320e4b60c3b98c4df9976dea8daeffd6952b80038742db74'}
+  - {seq: 2, role: markers, filename: assets/KR6v0448_002.markers.yaml, hash: 'sha256:fe6f9f628b815c186f7b52bc4e116aaa41a4eb19790b0a07f83c148b5cb0eb63'}
+  - {seq: 3, role: markers, filename: assets/KR6v0448_003.markers.yaml, hash: 'sha256:5be0e49f9b200f6baafe430b919d9c00d4617675ea2469eb445abc7b3c4d3727'}
 table_of_contents:
 - ref:
     seq: 1
@@ -317,7 +318,4 @@ table_of_contents:
   label: 跋
   type: mulu
   level: 1
-hash: sha256:04bced39148e7bb4728a3c3077cb0fa09db26fc05b50a5d5d4d1f747f834b5ce
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0eb578def60568c3f5b40651d0e6ce2920be37335e8a759938bdc830595bd729
